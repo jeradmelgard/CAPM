@@ -1,1 +1,1 @@
-https://hub.binder.curvenote.dev/user/jeradmelgard-capm-5g9i2mn6/doc/tree/CAPM.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeradmelgard/CAPM/main?labpath=CAPM.ipynb)
