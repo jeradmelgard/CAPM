@@ -163,3 +163,5 @@ matplotlib-inline==0.1.7
 matplotlib-venn==0.11.10
 platformdirs==4.2.1
 plotnine==0.12.4
+mdit-py-plugins==0.4.0
+
