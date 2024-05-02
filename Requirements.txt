@@ -164,4 +164,4 @@ matplotlib-venn==0.11.10
 platformdirs==4.2.1
 plotnine==0.12.4
 mdit-py-plugins==0.4.0
-
+matplotlib.pyplot==3.8.4
