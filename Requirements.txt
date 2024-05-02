@@ -158,7 +158,7 @@ sklearn-pandas==2.2.0
 seaborn==0.13.1
 scikit-image==0.19.3
 scikit-learn==1.2.2
-matplotlib==3.7.1
+matplotlib==3.8.4
 matplotlib-inline==0.1.7
 matplotlib-venn==0.11.10
 platformdirs==4.2.1
