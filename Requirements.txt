@@ -22,7 +22,7 @@ PySocks==1.7.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 scipy==1.11.4
-seaborn==0.13.1
+seaborn==0.13.2
 shutup==0.2.0
 SQLAlchemy==2.0.22
 voila==0.5.6
