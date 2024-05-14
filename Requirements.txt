@@ -15,7 +15,7 @@ matplotlib-inline==0.1.6
 numpy==1.25.2
 pandas==2.0.3
 pip==23.2.1
-plotly==5.15.0
+plotly==5.22.0
 pyOpenSSL==23.2.0
 pyparsing==3.1.2
 PySocks==1.7.1
